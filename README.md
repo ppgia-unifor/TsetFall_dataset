@@ -22,7 +22,7 @@
 - [Table of Contents](#table-of-contents)
 - [About ](#about-)
 - [Data structure ](#data-structure-)
-- [Videos description ](#videos-description-)
+- [Video description ](#video-description-)
 - [Download ](#download-)
 - [Authors ](#authors-)
 <!-- - [Acknowledgments](#acknowledgement) -->
@@ -76,7 +76,7 @@ tsetfall
 ├─ ground_truth.csv 
 └─ ground_truth_extended.csv 
 ```
-## Videos description <a name = "video_description"></a>
+## Video description <a name = "video_description"></a>
 
 |#|Sequence Name (in Portuguese)|Description|
 |-|-------------|-----------|
@@ -93,7 +93,7 @@ tsetfall
 |11|sentando-com-casaco-na-cadeira|Sitting on a chair located next to another chair with a coat hanging on it.|
 |12|cair-no-escuro|Falling forward in the dark.|
 |13|teste-da-camisa-de-botoes|Handling a button-up shirt on a hanger in the dark.|
-|14|polichinelos-no-escuro|Jumping jacks exercise in the dark.|
+|14|polichinelo-no-escuro|Jumping jacks exercise in the dark.|
 |15|apoio-de-frente-escuro|Front support exercise in the dark.|
 |16|abdominal-no-escuro|Abdominal exercise in the dark.|
 |17|flexao-com-pesos-no-escuro|Push-ups with weights exercise in the dark.|
@@ -102,10 +102,10 @@ tsetfall
 |20|entrar-agachar-e-para-no-escuro|Walking to the center of the room, squatting down, standing up, and exiting, all in the dark.|
 |21|andar-agachado-no-escuro|Walking crouched in the dark.|
 |22|andar-com-toalha-turban-no-escuro|Walking with a towel turban in the dark.|
-|23|sit-stand-com-dificuldade-na-cadeira|Sit-stand with difficulty in a chair.|
-|24|sit-stand-com-dificuldade-na-cadeira-no-escuro|Sit-stand with difficulty in a chair in the dark.|
-|25|queda-para-tras-com-manequim|Falling backwards while holding a mannequin torso.|
-|26|manuseando-camisa-com-botoes|Handling a button-up shirt on a hanger.|
+|23|sentar-e-com-dificuldade|Sit-stand with difficulty in a chair.|
+|24|sentar-levantar-com-dificuldade-no-escuro|Sit-stand with difficulty in a chair in the dark.|
+|25|queda-com-manequim|Falling backwards while holding a mannequin torso.|
+|26|teste-camisa-com-botoes|Handling a button-up shirt on a hanger.|
 |27|polichinelos|Jumping jacks exercise.|
 |28|apoio-de-frente|Front support exercise.|
 |29|abdominal|Abdominal exercise.|
@@ -113,9 +113,9 @@ tsetfall
 |31|agachamento|Squats exercise.|
 |32|entrar-e-agachar|Walking to the center of the room and squatting down.|
 |33|andar-agachado|Walking crouched.|
-|34|andar-com-toalha-turban|Walking with a towel turban.|
-|35|andar-com-dificuldade-maos-atras-sentar-levantar-sair|Struggling to walk with hands behind the back, then sitting, standing, and leaving the room.|
-|36|andando e interagindo com um cachorro|Walking and interacting with a dog.|
+|34|toalha-na-cabeca|Walking with a towel turban.|
+|35|sentar-levantar-com-dificuldade|Struggling to walk with hands behind the back, then sitting, standing, and leaving the room.|
+|36|teste-com-cachorro|Walking and interacting with a dog.|
 
 
 
