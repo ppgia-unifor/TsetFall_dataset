@@ -61,7 +61,7 @@ The CSV file containing the annotations. Each line of the file contains the foll
   - Detection confidence
   - Class of the objects of interest: Not Fallen (NF), Fallen (FN), Falling (FG), and Confounding (C)
   - 4 fields containing the object's location in the format x_min, y_min, x_max, y_max
-  - The algorithm that generated the detection.
+  - The algorithm that generated the detection
 ```
 tsetfall
 ├─ tsetfall.rar
