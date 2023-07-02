@@ -74,7 +74,7 @@ tsetfall
 ├─ ground_truth.csv 
 └─ ground_truth_extended.csv 
 ```
-## Video descriptions <a name = "video_description"></a>
+## Video descriptions <a name = "video_descriptions"></a>
 
 |#|Sequence Name (in Portuguese)|Description|
 |-|-------------|-----------|
