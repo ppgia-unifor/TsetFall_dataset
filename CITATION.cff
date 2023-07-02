@@ -2,12 +2,12 @@ cff-version: 1.2.0
 type: dataset
 message: "If you use this dataset, please cite it as below."
 authors:
-- family-names: "Eduardo"
-  given-names: "Façanha Dutra"
-- family-names: "Maria"
-  given-names: "Andréia Formico Rodrigues"
-- family-names: "Thiago"
-  given-names: "Carvalho de Oliveira"
+- family-names: "Dutra"
+  given-names: "Eduardo Façanha"
+- family-names: "Rodrigues"
+  given-names: "Maria Andréia Formico "
+- family-names: "Carvalho de Oliveira"
+  given-names: "Thiago"
 title: " TsetFall: A Comprehensive, fine-grained, and publicly available dataset generated for human fall detection"
 version: 1.0.0
 date-released: 2023-07-02
