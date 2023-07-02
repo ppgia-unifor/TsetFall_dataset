@@ -58,10 +58,8 @@ The content is made available in the following format:
   - The CSV file containing the annotations performed by humans only. Each line of the file contains the following fields:
 
     - Image name
-    - Detection confidence
     - Class of the objects of interest: Not Fallen (NF), Fallen (FN), Falling (FG), and Confounding (C)
     - 4 fields containing the object's location in the format x_min, y_min, x_max, y_max
-    - The algorithm that generated the detection
 
   - The CSV file containing the ia-assisted annotations. Each line of the file contains the same strucutre of the previous file, with the addition of the following fields:
     - Detection confidence
