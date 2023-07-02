@@ -16,8 +16,7 @@
 
 ---
 
-<p align="center"> Comprehensive, fine-grained, and publicly available dataset generated for fall detection research. 
-    <br> 
+<p align="center">A Comprehensive, fine-grained, and publicly available dataset generated for human fall detection. <br> 
 </p>
 
 ## 📝 Table of Contents
