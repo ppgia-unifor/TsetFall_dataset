@@ -26,7 +26,7 @@
 - [Getting Started](#getting_started)
 - [Download](#download)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+<!-- - [Acknowledgments](#acknowledgement) -->
 
 ## About <a name = "about"></a>
 
