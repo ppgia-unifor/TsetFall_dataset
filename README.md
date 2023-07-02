@@ -23,7 +23,7 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Download](#download)
+<!-- - [Download](#download) -->
 - [Authors](#authors)
 <!-- - [Acknowledgments](#acknowledgement) -->
 
