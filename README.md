@@ -97,8 +97,8 @@ tsetfall
 |15|apoio-de-frente-escuro|Front support exercise in the dark.|
 |16|abdominal-no-escuro|Abdominal exercise in the dark.|
 |17|flexao-com-pesos-no-escuro|Push-ups with weights exercise in the dark.|
-|18|agachamentos-no-escuro|Squats exercise in the dark.|
-|19|queda-com-manequim-no-escuro|Falling backwards while holding a mannequin torso in the dark.|
+|18|agachamento-no-escuro|Squats exercise in the dark.|
+|19|busto-do-manequim-no-escuro|Falling backwards while holding a mannequin torso in the dark.|
 |20|entrar-agachar-e-para-no-escuro|Walking to the center of the room, squatting down, standing up, and exiting, all in the dark.|
 |21|andar-agachado-no-escuro|Walking crouched in the dark.|
 |22|andar-com-toalha-turban-no-escuro|Walking with a towel turban in the dark.|
