@@ -70,7 +70,7 @@ tsetfall
 │  └─ [list of videos]
 └─ ground_truth.csv 
 ```
-To access this content please fill the following [form](https://forms.gle/fxcDziZSrp4zL9Uc6) to aquire the decode key. You can find the download link [here](https://mega.nz/folder/u9dynToD).
+To access this content please fill the following [form](https://forms.gle/fxcDziZSrp4zL9Uc6) to acquire the decode key. You can find the download link [here](https://mega.nz/folder/u9dynToD).
 
 ## Authors <a name = "authors"></a>
 
