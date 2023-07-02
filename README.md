@@ -3,7 +3,7 @@
  <img src="img/header.jpg" alt="Project logo"></a>
 </p>
 
-<h1 align="center">TsetFall</h1>
+<h1 align="center">TsetFall dataset</h1>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Conjunto de dados abrangente, refinado e publicamente disponível para pesquisas em detecção de quedas. 
+<p align="center"> Comprehensive, fine-grained, and publicly available dataset generated for fall detection research. 
     <br> 
 </p>
 
