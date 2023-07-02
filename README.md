@@ -63,7 +63,7 @@ The content is made available in the following format:
     - 4 fields containing the object's location in the format x_min, y_min, x_max, y_max
     - The algorithm that generated the detection
 
-  - The CSV file containing the ia-assisted annotations. Each line of the file contains the same strucutre of the previous, with the addition of the following fields:
+  - The CSV file containing the ia-assisted annotations. Each line of the file contains the same strucutre of the previous file, with the addition of the following fields:
     - Detection confidence
     - The algorithm that generated the detection
 
