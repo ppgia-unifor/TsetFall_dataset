@@ -52,7 +52,7 @@ tackling the multifaceted nature of human fall detection.
 
 
 The content is made available in the following format:
-
+  - A folder containing our publications
   - A compressed folder containing each of the images from the video sequences. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName__frameNumber.jpeg`. Example: `cam_1__1-andando-normalmente__00001.jpeg`.
 
   - A compressed folder containing the sequences arranged in video format. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName.mp4`.
@@ -72,6 +72,7 @@ The content is made available in the following format:
 
 ```
 tsetfall
+├─ publications
 ├─ tsetfall.rar
 │  └─ [list of images]
 ├─ tsetfall_videos.rar
