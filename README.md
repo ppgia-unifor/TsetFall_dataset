@@ -21,7 +21,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [About ](#about-)
-- [Data structure ](#data-structure-)
+- [Folder structure ](#folder-structure-)
 - [Video descriptions ](#video-descriptions-)
 - [Download ](#download-)
 - [Authors ](#authors-)
@@ -46,7 +46,7 @@ the current gaps in available resources, the TsetFall dataset
 serves as a valuable benchmark for advancing the field and
 tackling the multifaceted nature of human fall detection.
 
-## Data structure <a name = "data_description"></a>
+## Folder structure <a name = "folder_structure"></a>
 
 
 The content is made available in the following format:
@@ -56,12 +56,11 @@ The content is made available in the following format:
   - A compressed folder containing the sequences arranged in video format. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName.mp4`.
 
   - The CSV file containing the annotations performed by humans only. Each line of the file contains the following fields:
-
     - Image name
     - Class of the objects of interest: Not Fallen (NF), Fallen (FN), Falling (FG), and Confounding (C)
-    - 4 fields containing the object's location in the format x_min, y_min, x_max, y_max
+    - 4 fields containing the object's location in `x_min, y_min, x_max, y_max` format
 
-  - The CSV file containing the ia-assisted annotations. Each line of the file contains the same strucutre of the previous file, with the addition of the following fields:
+  - The CSV file containing the ia-assisted annotations. Each line of the file contains the same structure of the previous file, with the addition of the following fields:
     - Detection confidence
     - The algorithm that generated the detection
 
