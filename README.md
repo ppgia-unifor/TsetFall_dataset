@@ -36,7 +36,7 @@ images for analysis. Existing fall detection datasets often suffer
 from size, diversity, and representativeness limitations, as they
 generally comprise a small number of videos featuring a limited
 range of actions, camera perspectives, and lighting conditions.
-Moreover, these datasets typically lack the complexity of realworld
+Moreover, these datasets typically lack the complexity of real-world
 fall scenarios, as they often exclude distracting objects and
 offer only one or two camera angles. To address these challenges,
 this work introduces TsetFall, a comprehensive, fine-grained, and
