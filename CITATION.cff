@@ -7,7 +7,7 @@ authors:
 - family-names: "Maria"
   given-names: "Andréia Formico Rodrigues"
 - family-names: "Thiago"
-  given-names: "Narak Carvalho de Oliveira"
+  given-names: "Carvalho de Oliveira"
 title: " TsetFall: A Comprehensive, fine-grained, and publicly available dataset generated for human fall detection"
 version: 1.0.0
 date-released: 2023-07-02
