@@ -1,11 +1,14 @@
-title: TsetFall: A Comprehensive, fine-grained, and publicly available dataset generated for human fall detection
-version: 1.0.0
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
 authors:
-  - name: Eduardo Façanha Dutra
-    affiliation: Universidade de Fortaleza 
-  - name: Maria Andréia Formico Rodrigues
-    affiliation: Universidade de Fortaleza 
-  - name: Thiago Narak Carvalho de Oliveira
-    affiliation: Universidade de Fortaleza 
+- family-names: "Eduardo"
+  given-names: "Façanha Dutra"
+- family-names: "Maria"
+  given-names: "Maria"
+- family-names: "Andréia Formico Rodrigues"
+  given-names: "Narak Carvalho de Oliveira"
+title: " TsetFall: A Comprehensive, fine-grained, and publicly available dataset generated for human fall detection"
+version: 1.0.0
+date-released: 2023-07-02
 license: GNU General Public License Version 3
 repository: https://github.com/ppgia-unifor/TsetFall_dataset
