@@ -22,7 +22,7 @@
 - [Table of Contents](#table-of-contents)
 - [About ](#about-)
 - [Data structure ](#data-structure-)
-- [Video description ](#video-description-)
+- [Video descriptions ](#video-descriptions-)
 - [Download ](#download-)
 - [Authors ](#authors-)
 <!-- - [Acknowledgments](#acknowledgement) -->
@@ -76,7 +76,7 @@ tsetfall
 ├─ ground_truth.csv 
 └─ ground_truth_extended.csv 
 ```
-## Video description <a name = "video_description"></a>
+## Video descriptions <a name = "video_description"></a>
 
 |#|Sequence Name (in Portuguese)|Description|
 |-|-------------|-----------|
