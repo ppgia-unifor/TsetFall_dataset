@@ -10,13 +10,13 @@
 <!-- [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) -->
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<p align="center"> Conjunto de dados abrangente, refinado e publicamente disponível gerado para pesquisas em detecção de quedas. 
+<p align="center"> Conjunto de dados abrangente, refinado e publicamente disponível para pesquisas em detecção de quedas. 
     <br> 
 </p>
 
@@ -24,91 +24,64 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [Download](#download)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
+## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Human fall detection research remains an underdeveloped
+area, particularly with respect to utilizing dynamic
+images for analysis. Existing fall detection datasets often suffer
+from size, diversity, and representativeness limitations, as they
+generally comprise a small number of videos featuring a limited
+range of actions, camera perspectives, and lighting conditions.
+Moreover, these datasets typically lack the complexity of realworld
+fall scenarios, as they often exclude distracting objects and
+offer only one or two camera angles. To address these challenges,
+this work introduces TsetFall, a comprehensive, fine-grained, and
+publicly available dataset generated for fall detection research.
+Employing a novel AI technique devised by the present authors,
+the dataset annotation process was notably expedited. By bridging
+the current gaps in available resources, the TsetFall dataset
+serves as a valuable benchmark for advancing the field and
+tackling the multifaceted nature of human fall detection.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
+The content is made available in the following format:
 
-What things you need to install the software and how to install them.
+A compressed folder containing each of the images from the video sequences. The image name follows the following pattern: `camNumber__sequenceNumber-sequenceName__frameNumber.jpeg`. Example: `cam-1_1-andando-normalmente__0001.jpeg`.
 
+A compressed folder containing the sequences arranged in video format. The image name follows the following pattern: `camNumber__sequenceNumber-sequenceName.mp4`.
+
+The CSV file containing the annotations. Each line of the file contains the following fields:
+
+  - Image name
+  - Detection confidence
+  - Class of the object of interest (No Fall, Fallen, Falling, and Confounding)
+  - 4 fields containing the object's location in the format x_min, y_min, x_max, y_max
+  - The algorithm that generated the detection.
 ```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
+tsetfall
+├─ tsetfall.rar
+│  └─ [list of images]
+├─ tsetfall_videos.rar
+│  └─ [list of videos]
+└─ ground_truth.csv 
 ```
 
-### And coding style tests
 
-Explain what these tests test and why
+## Authors <a name = "authors"></a>
 
-```
-Give an example
-```
+- [@eduardodut](https://github.com/eduardodut)
+- [@mandreia](https://github.com/mandreia)
+- [@thiagoRCOliveira](https://github.com/thiagoRCOliveira)
 
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+<!-- ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- References
+- References -->
+
