@@ -51,18 +51,18 @@ tackling the multifaceted nature of human fall detection.
 
 The content is made available in the following format:
 
-  - A compressed folder containing each of the images from the video sequences. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName__frameNumber.jpeg`. Example: `cam_1__1-andando-normalmente__00001.jpeg`.
+  - **tsetfall.rar**: A compressed folder containing each of the images from the video sequences. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName__frameNumber.jpeg`. Example: `cam_1__1-andando-normalmente__00001.jpeg`.
 
-  - A compressed folder containing the sequences arranged in video format. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName.mp4`.
+  - **tsetfall_videos.rar**: A compressed folder containing the sequences arranged in video format. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName.mp4`.
 
-  - The CSV file containing the annotations performed by humans only. Each line of the file contains the following fields:
+  - **ground_truth.csv**: The CSV file that contains the annotations performed by humans only. Each line of the file contains the following fields:
     - Image name
     - Class of the objects of interest: Not Fallen (NF), Fallen (FN), Falling (FG), and Confounding (C)
     - 4 fields containing the object's location in `x_min, y_min, x_max, y_max` format
 
-  - The CSV file containing the ia-assisted annotations. Each line of the file contains the same structure of the previous file, with the addition of the following fields:
+  - **ground_truth_extended.csv**: The CSV file that contains the AI-assisted annotations. Each line of the file contains the same structure of the previous file, with the addition of the following fields:
     - Detection confidence
-    - The algorithm that generated the detection
+    - The algorithm that generated the object detection
 
 
 ```
