@@ -51,7 +51,7 @@ tackling the multifaceted nature of human fall detection.
 
 The content is made available in the following format:
 
-  - **tsetfall.rar**: A compressed folder that contains each of the images from the video sequences. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName__frameNumber.jpeg`. Example: `cam_1__1-andando-normalmente__00001.jpeg`.
+  - **tsetfall.rar**: A compressed folder containing each of the images extracted from the video sequences. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName__frameNumber.jpeg`. Example: `cam_1__1-andando-normalmente__00001.jpeg`.
 
   - **tsetfall_videos.rar**: A compressed folder that contains the sequences arranged in video format. The image name follows the following pattern: `cam_number__sequenceNumber-sequenceName.mp4`.
 
