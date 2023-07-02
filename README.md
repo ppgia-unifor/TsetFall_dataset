@@ -78,44 +78,45 @@ tsetfall
 ```
 ## Videos description <a name = "video_description"></a>
 
-|#|Sequence Name|Description|
+|#|Sequence Name (in Portuguese)|Description|
 |-|-------------|-----------|
-|1|andando-normalmente|The person is walking and engaging with various objects in their environment.|
-|2|desmaiando|The person suddenly loses consciousness and collapses.|
-|3|deitando-nas-cadeiras|The person is positioned lying across three chairs.|
-|4|sentando-na-cadeira-com-gatinho|The person is seated in a chair with a kitten next to them.|
-|5|sentando-no-chao|The person is seated on the floor.|
-|6|andando-com-bengala |The person is using a cane to assist with walking but eventually falls down.|
-|7|andando-com-anda-ja|The person is using a walker for support while walking but experiences a fall.|
-|8|caindo-de-costas|The person falls backward.|
-|9|caindo-de-barriga|The person falls forward.|
-|10|andando-com-casaco-na-cadeira|The person is walking and engaging with objects, including a coat hanging on a chair.|
-|11|sentando-com-casaco-na-cadeira|The person is seated on a chair positioned next to another chair with a coat hanging on it.|
-|12|cair-no-escuro|The person falls forward in a dark environment.|
-|13|teste-da-camisa-de-botoes|The person interacts with a button-up shirt hanging on a hanger in a dark environment.|
-|14|polichinelos-no-escuro|The person performs jumping jacks exercise in a dark environment.|
-|15|apoio-de-frente-escuro|The person engages in a front support exercise (plank) in a dark environment.|
-|16|abdominal-no-escuro|The person performs abdominal exercises in a dark environment.|
-|17|flexao-com-pesos-no-escuro|The person does push-ups with weights in a dark environment.|
-|18|agachamentos-no-escuro|The person performs squats exercise in a dark environment.|
-|19|busto-do-manequim-no-escuro|The person falls backward while holding a mannequin torso in a dark environment.|
-|20|entrar-agachar-e-para-no-escuro|The person walks to the center of the room, squats down, stands up, and leaves, all in a dark environment.|
-|21|andar-agachado-no-escuro|The person walks while crouched in a dark environment.|
-|22|toalha-na-cabeca-no-escuro|The person walks with a towel wrapped around their head (turban) in a dark environment.|
-|23|sentar-e-com-dificuldade|The person struggles to transition from a sitting to a standing position in a chair.|
-|24|sentar-levantar-com-dificuldade-no-escuro|The person struggles to transition from a sitting to a standing position in a chair in a dark environment.|
-|25|queda-com-manequim|The person falls backward while holding a mannequin torso.|
-|26|teste-camisa-com-botoes|The person interacts with a button-up shirt hanging on a hanger.|
-|27|polichinelo|The person performs jumping jacks exercise.|
-|28|apoio-de-frente|The person engages in a front support exercise (plank).|
-|29|abdominal|The person performs abdominal exercises.|
-|30|flexao-com-pesos|The person does push-ups with weights.|
-|31|agachamento|The person performs squats exercise.|
-|32|entrar-e-agachar|The person walks to the center of the room and squats down.|
-|33|andar-agachado|The person walks while crouched.|
-|34|toalha-na-cabeca|The person walks with a towel wrapped around their head (turban).|
-|35|sentar-levantar-com-dificuldade|The person struggles to walk with hands behind their back, then sits, stands, and exits the room.|
-|36|teste-com-cachorro|The person is walking and engaging with a dog.|
+|1|andando-normalmente|Walking and interacting with objects.|
+|2|desmaiando|Fainting.|
+|3|deitando-nas-cadeiras|Lying on three chairs.|
+|4|sentando-na-cadeira-com-gatinho|Sitting in a chair with a kitten by the side.|
+|5|sentando-no-chao|Sitting on the floor.|
+|6|andando-com-bengala |Walking with a cane, followed by a fall.|
+|7|andando-com-anda-ja|Walking with a walker, followed by a fall.|
+|8|caindo-de-costas|Falling backwards.|
+|9|caindo-de-barriga|Falling forward.|
+|10|andando-com-casaco-na-cadeira|Walking and interacting with objects, with a coat hanging on a chair.|
+|11|sentando-com-casaco-na-cadeira|Sitting on a chair located next to another chair with a coat hanging on it.|
+|12|cair-no-escuro|Falling forward in the dark.|
+|13|teste-da-camisa-de-botoes|Handling a button-up shirt on a hanger in the dark.|
+|14|polichinelos-no-escuro|Jumping jacks exercise in the dark.|
+|15|apoio-de-frente-escuro|Front support exercise in the dark.|
+|16|abdominal-no-escuro|Abdominal exercise in the dark.|
+|17|flexao-com-pesos-no-escuro|Push-ups with weights exercise in the dark.|
+|18|agachamentos-no-escuro|Squats exercise in the dark.|
+|19|queda-com-manequim-no-escuro|Falling backwards while holding a mannequin torso in the dark.|
+|20|entrar-agachar-e-para-no-escuro|Walking to the center of the room, squatting down, standing up, and exiting, all in the dark.|
+|21|andar-agachado-no-escuro|Walking crouched in the dark.|
+|22|andar-com-toalha-turban-no-escuro|Walking with a towel turban in the dark.|
+|23|sit-stand-com-dificuldade-na-cadeira|Sit-stand with difficulty in a chair.|
+|24|sit-stand-com-dificuldade-na-cadeira-no-escuro|Sit-stand with difficulty in a chair in the dark.|
+|25|queda-para-tras-com-manequim|Falling backwards while holding a mannequin torso.|
+|26|manuseando-camisa-com-botoes|Handling a button-up shirt on a hanger.|
+|27|polichinelos|Jumping jacks exercise.|
+|28|apoio-de-frente|Front support exercise.|
+|29|abdominal|Abdominal exercise.|
+|30|flexao-com-pesos|Push-ups with weights exercise.|
+|31|agachamento|Squats exercise.|
+|32|entrar-e-agachar|Walking to the center of the room and squatting down.|
+|33|andar-agachado|Walking crouched.|
+|34|andar-com-toalha-turban|Walking with a towel turban.|
+|35|andar-com-dificuldade-maos-atras-sentar-levantar-sair|Struggling to walk with hands behind the back, then sitting, standing, and leaving the room.|
+|36|andando e interagindo com um cachorro|Walking and interacting with a dog.|
+
 
 
 
