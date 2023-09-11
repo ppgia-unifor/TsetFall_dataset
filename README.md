@@ -124,6 +124,8 @@ tsetfall
  To access this content, please complete the following [form](https://forms.gle/fxcDziZSrp4zL9Uc6) to acquire the decoding key. You can find the download link [here](https://mega.nz/folder/u9dynToD).
 
 ## Publications <a name = "publications"></a>
+- [2023 IEEE SeGAH](https://www.segah.org/2023/)
+
 ## Authors <a name = "authors"></a>
 
 - [@eduardodut](https://github.com/eduardodut)
